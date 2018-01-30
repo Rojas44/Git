@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         
         updateDiceImages()
         
+        
     }
 
     override func didReceiveMemoryWarning() {
